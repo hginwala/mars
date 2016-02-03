@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "robotgrid", "robotgrid\robotgrid.csproj", "{A2FAA3EA-25C7-449B-9FC0-EEA4FF417CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "robotgridTests", "robotgridTests\robotgridTests.csproj", "{21946018-40FD-4327-B91B-8D3C59930779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2FAA3EA-25C7-449B-9FC0-EEA4FF417CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FAA3EA-25C7-449B-9FC0-EEA4FF417CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FAA3EA-25C7-449B-9FC0-EEA4FF417CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FAA3EA-25C7-449B-9FC0-EEA4FF417CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21946018-40FD-4327-B91B-8D3C59930779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21946018-40FD-4327-B91B-8D3C59930779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21946018-40FD-4327-B91B-8D3C59930779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21946018-40FD-4327-B91B-8D3C59930779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
